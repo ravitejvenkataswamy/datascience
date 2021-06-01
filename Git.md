@@ -50,3 +50,5 @@ git push -u origin main
 - Pushes the changes in your local repository up to the remote repository you specified as the origin
 
 [For more](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
+
+- [ ] Should start learning [[GitHub]] from this Thursday ^ftaqe54

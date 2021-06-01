@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
-            "mode": "source"
+            "file": "GitHub.md",
+            "mode": "preview"
           }
         }
       },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "GitHub.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git.md",
+                "file": "GitHub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9556d8f147c536ba",
@@ -206,20 +205,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "active": "6267772f362ace51",
   "lastOpenFiles": [
+    "GitHub.md",
     "Git.md",
+    "2021-06-03.md",
     "CS61A.md",
     "CS61B.md",
     "control flow.md",
     "Control.md",
     "Containers.md",
     "Homework 3.md",
-    "Homework 4.md",
-    "nonlocal.md",
-    "Tricks and Tips/Tips.md"
+    "Homework 4.md"
   ]
 }
