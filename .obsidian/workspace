@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Q3 Repeated.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "503c10436a31fdfe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git.md",
+            "file": "attribute.md",
             "mode": "preview"
           }
         }
@@ -50,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homework",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -67,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +70,6 @@
       {
         "id": "3edfcb3f5cfab3da",
         "type": "tabs",
-        "dimension": 53.075170842824605,
         "children": [
           {
             "id": "4451aa7127bb1495",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q3 Repeated.md",
+                "file": "attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q3 Repeated.md"
+                "file": "attribute.md"
               }
             }
           },
@@ -149,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Q3 Repeated.md",
+                "file": "attribute.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,13 +178,26 @@
       {
         "id": "9556d8f147c536ba",
         "type": "tabs",
-        "dimension": 46.924829157175395,
         "children": [
           {
             "id": "c1c80640d3c9ea56",
             "type": "leaf",
             "state": {
               "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "907502972e839e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8447cdd3c0b76453",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -210,15 +210,15 @@
   },
   "active": "6267772f362ace51",
   "lastOpenFiles": [
-    "Q3 Repeated.md",
-    "Homework 4.md",
-    "GitHub.md",
-    "Git.md",
-    "2021-06-03.md",
-    "CS61A.md",
-    "CS61B.md",
-    "control flow.md",
-    "Control.md",
-    "Containers.md"
+    "attribute.md",
+    "Inheritance.md",
+    "Methods.md",
+    "Function.md",
+    "Functions.md",
+    "Class.md",
+    "Attributes.md",
+    "2021-06-08.md",
+    "2021-05-31.md",
+    "Excalidraw/Drawing 2021-06-01 23.56.20.excalidraw"
   ]
 }

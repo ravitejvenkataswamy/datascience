@@ -1,7 +1,7 @@
 - ## [Timeline](https://airtable.com/shrvmqSzsRvaNr160)
 - #inprogress 
 - [x] Lecture 1: Introdunction
-- [x] Lecture 2: [[Function]]s
+- [x] Lecture 2: [[function]]s
 - [x] Lecture 3: [[Control]]
 - [x] Lecture 4: Higher-Order Functions
 - [x] Lecture 5: [[Environments]]
@@ -18,7 +18,7 @@
 - [x] Lecture 17: [[Iterators]]
 - [x] Lecture 18: [[Objects]]	
 - [ ] [[Homework 4]]  
-- [ ] Lecture 19: [[Inheritance]]		
+- [x] Lecture 19: [[Inheritance]]		
 - [ ] Lecture 20: [[Representation]]
 - [ ] [[Homework 5]]
 - [ ] Lecture 21: [[Composition]]		

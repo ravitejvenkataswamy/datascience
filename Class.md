@@ -36,7 +36,7 @@
     class <name>: <suite>
 
 - A class statement creates a new class and binds that class to <name> in the first [[frame]] of the current [[environment]]
-  - Assignment & def statements in `<suite>` create attributes of the class **(not names in frames)**
+  - Assignment & def statements in `<suite>` create [[attribute]]s of the class **(not names in frames)**
 
 It's a convention to use Capital letter
 the beginning letter of the name of the class

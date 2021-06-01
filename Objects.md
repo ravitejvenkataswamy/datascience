@@ -27,8 +27,8 @@ date updated: '2021-05-29T15:30:41+05:30'
 - [[John DeNero]]'s [[Objects]] classes
        - [[Object-Oriented Programming]]
        - [[Class]]
-       - [[Methods]]
-       - [[Attributes]]
+       - [[method]]
+       - [[attribute]]
        -  [[Methods and Functions]]
        -  [[Looking Up Attributes by Name]]
        -  [[Class Attributes]]

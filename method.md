@@ -47,3 +47,6 @@ class Account:
  Dot Expressions
         - Objects receive messages via [[dot expression]].
         - [[dot expression]] accesses attributes of the instance **or** its class.
+		![[Inheritance#^2072af]]
+		
+

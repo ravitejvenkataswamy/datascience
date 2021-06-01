@@ -50,13 +50,8 @@ False
     - Looking up an attribute name in an object may return:
         - One of its instance attributes, **or**
         - One of the attributes of its class
-- Recalled from [[Inheritance]] perspective 
-    - Terminology: [[Attributes]], [[Functions]], and [[Methods]]
-        - All objects have attributes, which are name-value pairs
-        - [[class]]es are objects too, so they have attributes
-        - Instance attribute: attribute of an intsance
-        - Class attribute: attribute of the class of an instance
-        - {{[[diagram]]}} 
-            - blocks will be created here
-            - can be linked 
-            - easily
+
+form [[Inheritance#^d70870]] lecture
+
+##### [[Attribute assignment]] statements
+- Attribute assignment statements change the values that are bound to attribute name with an object or a class.
