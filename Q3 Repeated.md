@@ -41,3 +41,5 @@ Write a function that checks current and next term same
 def functions()
 ```
 
+
+# Stuck here from 2 day

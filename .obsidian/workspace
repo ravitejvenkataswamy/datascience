@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GitHub.md",
+            "file": "Q3 Repeated.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "homework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub.md",
+                "file": "Q3 Repeated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub.md"
+                "file": "Q3 Repeated.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GitHub.md",
+                "file": "Q3 Repeated.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,10 +205,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "active": "6267772f362ace51",
   "lastOpenFiles": [
+    "Q3 Repeated.md",
+    "Homework 4.md",
     "GitHub.md",
     "Git.md",
     "2021-06-03.md",
@@ -216,8 +219,6 @@
     "CS61B.md",
     "control flow.md",
     "Control.md",
-    "Containers.md",
-    "Homework 3.md",
-    "Homework 4.md"
+    "Containers.md"
   ]
 }
