@@ -52,3 +52,12 @@ git push -u origin main
 [For more](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 - [ ] Should start learning [[GitHub]] from this Thursday ^ftaqe54
+
+### .gitignore file
+      
+
+echo ".obsidian/cache
+
+dquote> .trash/
+
+dquote> .DS\_Store" > .gitignore
