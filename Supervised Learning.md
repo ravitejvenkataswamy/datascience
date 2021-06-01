@@ -1,0 +1,1 @@
+- includes [[regression]] and [[classification]] problems. Study [[simple linear regression]], [[multiple regression]], [[polynomial regression]], [[naive Bayes]], [[Logistic regression]], [[KNNs]], [[tree models]], [[ensemble models]]. Learn about [[evaluation metrics]].

@@ -1,0 +1,1 @@
+- You define each piece without worrying about the other pieces and then they all work together

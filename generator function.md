@@ -1,0 +1,4 @@
+- A generator function is a function that [[yield]]s values instead of returning them
+- A normal function returns once; a generator function can [[yield]] multiple times
+- generator is an iterator created automatically by calling a generator function
+- When a generator function is called, it returns a generator that iterates over its yields

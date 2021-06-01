@@ -1,0 +1,7 @@
+- {{video: https://youtu.be/_1QtMPuYIVw}}
+- [[Video intelligence API]]
+- [[Semantic]] Search
+- Embeddings: The points which are closer have same meaning
+- {{iframe: https://daleonai.com/}}
+- 
+- 

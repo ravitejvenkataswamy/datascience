@@ -1,0 +1,5 @@
+- Methods is an attribute that is a function
+           - Python distinguishes between:
+               - __Functions__, which we have been creating since the beginning of the courese, and
+               - [[bound method]]s, which couple together a `function` and the `object` on which the method will be invoked.
+               - ## Object + Function = Bound Method

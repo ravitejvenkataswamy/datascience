@@ -1,0 +1,1 @@
+- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsuperbeliever%2FMXg2xoRUWe.pdf?alt=media&token=bfef6c2f-ed89-400f-b073-bf3e5a3f1d7d}}

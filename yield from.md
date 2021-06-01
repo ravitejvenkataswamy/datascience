@@ -1,0 +1,1 @@
+- A yield from statement yields all values from an [[iterator]] or [[iterable]] (python 3.3 onwards)

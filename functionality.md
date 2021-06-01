@@ -1,0 +1,1 @@
+- Iterative construct, conditional construct, function, parameters in parameters out,  recursion

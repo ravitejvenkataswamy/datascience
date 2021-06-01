@@ -1,0 +1,20 @@
+- ## How to Learn About [[Applied Statistics and mathematics]]
+- (Estimated time 4-5 months)]
+- Statistical methods are a central part of [[Data Science]]. Almost all [[Data Science]] [[interviews]] predominately focus on descriptive and inferential statistics.
+- ^^People often start coding machine learning algorithms without a clear understanding of underlying statistical and mathematical methods that explain the working of those algorithms. This, of course, ins't the best way to go about it.^^
+- ### Topics you should focus on in [[Applied Statistics and mathematics]].
+    - [[Descriptive Statistics]] -- to be able to summarise the data is powerful, but not always. Learn about estimates of location (mean, median, mode, weighted statistics, trimmed statistics), and variability to describe the data.
+    - [[Inferential statistics]] -- designing hypothesis tests, A/B tests, defining business metrics, analysing the collected data and experiment results using confidence interval, p-value, and alpha values.
+    - [[Linear Algebra, Single and multi-variate calculus]] to understand loss functions, gradient, and optimisers in [[machine learning]]
+- ### Resources to learn about [[Applied Statistics and mathematics]]:
+    - [Learn college-level statistics](https://www.freecodecamp.org/news/free-statistics-course/) is this free 8- hour course on the freeCodeCamp.org [[YouTube]] channel
+    - [[books]][Practical statistics for data science(Highly recommended)](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?crid=QOOZP96ISCU4&dchild=1&keywords=practical+statistics+for+data+scientists&qid=1610247485&s=books&sprefix=practical+stat%2Cstripbooks%2C362&sr=1-1) -- ^^A through guide on all the important statistical methods along with clean and concise applications/ examples^^.
+    - [[books]][Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/1480590185) -- a non-technical but detailed guide to understanding the impact of statistics on our routine events, sports, recommendation systems, and many more instances.
+    - [Statistics thinking in Python](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) -- a foundation course to help you start thinking statistically. There is a second part to this course as well.
+    - [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) -- offered by [[Udacity]]. Consists of video lectures explaining widely used measures of location and variability(standard deviation, variance, median absolute deviation)
+    - [Inferential Statistics, Udacity](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) -- the course consists of video lectures that educate you on drawing conclusions from data that might not be immediately obvious. If focuses on developing ghypotherse and use common these such as t-tests, ANOVA, and regression.
+    - And here's a [guide to statistics for data science](https://www.freeCodeCamp.org/news/statistics-for-data-science/) to help you get started down the right path.
+- ### Statistics project ideas:
+    - [ ]  Solve the exercises provided in the course above and then try to go through a number of public datasets where you can apply these statistical concepts. Ask questions like ^^"Is there sufficient evidence to conclude that the mean age of mothers giving birth in Boston is over 25 years of age at the 0.05 level of significance"?^^
+    - [ ]  Try to design and run small experiment with your peers/groups/classed by asking them to interact with an app or answer a question. Run statistical methods on the collected data once you have a good amount of data after a period of time. This might be very hard to pull off but should be very interesting.
+    - [ ]  Analyse stock prices, cryptocurrencies, and design hypothesis around the average return or any other metric. Determine if you can reject the null hypothesis or fail to do so using critical values.

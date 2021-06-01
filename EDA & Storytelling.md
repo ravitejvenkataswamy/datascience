@@ -1,0 +1,17 @@
+- ## How to Learn About Exploratory Data Analysis, Business Acumen, and Storytelling
+    - (Estimated time: 2-3 months)
+    - the next stratum to master is data analysis and [[storytelling]]. Drawing insights form the data and then communicating the same to management in simple terms and visualisations is the core responsibility of a [[Data Analyst]].
+    - The storytelling part requires you to be proficient with data visualisation along with excellent [[communication]] skills
+- ### Specific exploratory data analysis and storytelling topics to learn include:
+    - Exploratory data analysis -- defining questions, handling missing values, outliers, formatting, filtering, univariate and multivariate analysis.
+    - Data visulisation -- plotting data using libraries like matplotlib, seaboard, and plotly. Know how to choose the right chart to communicate the findings from the data.
+    - Developing dashboards -- a good percent of analysts only use Excel or a specialised tool like Power BI and Tableau to build dashboards that summarise/aggregate data to help management make decisions.
+    - Business acumen: Work on asking the right questions to answer, ones that actually target the business metics. Practice writing clear and concise reposts, blogs, and presentations.
+- ### Resources to learn more about data analysis:
+    - Learn data analysis with Python in this [free course on the freeCodeCamp ](https://www.freec/news/learn-data-analysis-with-python-course/)YouTube channel
+    - [Data analysis with python](https://www.coursera.org/learn/data-analysis-with-python) -- by IBM on Coursera. The course covers [[Data extraction and wrangling]], exploratory analysis, and simple model development using python.
+    - [Data Visulization](https://www.kaggle.com/learn/data-visualization) - by [[Kaggle]]. Another interactive course that lets you practice all the commonly used plots.
+    - Build product sense and business acumen with this [[books]]: [Measure what matter](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?crid=1A9SIXXP7S2P8&dchild=1&keywords=measure+what+matters&qid=1610323490&s=books&sprefix=measure%2Cstripbooks%2C365&sr=1-1), [Decode and conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417/ref=sr_1_1?s=books&ie=UTF8&qid=1530848101&sr=1-1&keywords=decode+and+conquer), [Cracking the PM interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_1?s=books&ie=UTF8&qid=1530848116&sr=1-1&keywords=cracking+the+pm+interview).
+- ### Data Analysis Project ideas
+    - [ ] Exploratory analysis on [movies dataset to find the formulas to create profitable movies](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e) (use it as inspiration ). use datasets form healthcare, finance, WHO, past census, Ecommerce, and so on.
+    - [ ] Build dashboards ([[Jupyter]] Notebooks, excel, [tableau](https://public.tableau.com/en-gb/gallery/?tab=viz-of-the-day&type=viz-of-the-day) ) using the resources provided above.

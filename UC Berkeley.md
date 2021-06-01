@@ -1,0 +1,2 @@
+- [Hany Farid](https://farid.berkeley.edu/downloads/tutorials/learnPython/)
+- 

@@ -1,0 +1,1 @@
+- Teaches [[CS61A]] course at [[UC Berkeley]]

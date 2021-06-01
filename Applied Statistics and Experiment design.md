@@ -1,0 +1,11 @@
+- ## How to Learn About [[Data Engineering]]
+    - Data engineering [[underpins]] the R&D teams by #meaning making clean data accessible to research engineers and scientists at big data-driven firms. It is field in itself and you may decide to skip this part if you want to focus on just he statistical algorithm side of the problems.
+    - Responsibilities of a [[data engineer]] comprise building an efficient data architecture, streamlining data processing, and maintaining large-scale data systems
+    - Engineers use Shell(CLI), SQL, and Python/Scala to Create ETL pipelines, automate file system take, and  optimise the database operations to make them high-performance.
+    -  Another crucial skill is implementing these data architectures which detach proficiency in cloud service provider like [[AWS]], [[Google cloud platform]], Microsoft azure, and others
+- ### Resources to learn [[Data Engineering]]:
+    - [Data Engineering Nanodegree by Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027) -- as far as complied list of resources is concerned, ^^I have not come across a better -strctured course on data engineering that covers all the major concepts form scratch.^^
+    - [Data Engineering, Big Data, and Machine Learning on GCP Specializaiton ](https://www.coursera.org/specializations/gcp-data-machine-learning) -- You can complete this specialisation offered by Google on [[Coursera]] that walks you through all the major APIs and services offered by [[Google cloud platform]] to build a complete date solution.
+- ### Data Engineering project ideas/certifications to prepare for:
+    - [ ] [AWS Certified Machine Learning(300 USD)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) -- A proctored exam offered by AWS, adds some weight to your profile ( doesn't guarantee anything, though), require decent understanding of [[AWS]] service and ML
+    - [ ] [Professional Data Engineer](https://cloud.google.com/certification/data-engineer) -- Certification offered by [[Google cloud platform]]. This is also a proctored exam and assesses your abilities to design data processing systems, deploying machine learning models in a production environment, and ensure solutions quality and automation.

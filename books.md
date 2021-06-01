@@ -1,0 +1,2 @@
+- [[Zed Shaw’s Learn Python 3 the Hard Way]]
+    - [x]  download form the [pdfdrive.com](https://www.pdfdrive.com/)

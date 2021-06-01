@@ -1,0 +1,2 @@
+
+- [[Clustering]] and [[dimensionality reduction]] are the two widely used applications of unsupervised learning. Dive deep into [[PCA]], [[K-means clustering]], [[hierarchical clustering]], and [[Gaussian mixtures]].

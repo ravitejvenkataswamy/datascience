@@ -1,0 +1,8 @@
+- [[Kaggle]]
+- [[Udacity]]
+- [[Google cloud platform]]
+- [[freeCodeCamp.org]]
+- [[LeetCode]]
+- [[Coursera]]
+- [[YouTube]]
+- [[UC Berkeley]]

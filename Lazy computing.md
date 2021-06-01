@@ -1,0 +1,2 @@
+- What lazy computation means is the result in only computed when it has been requested
+- The interpreter is ready is compute but doesn't actually compute unless that value is going to be used.

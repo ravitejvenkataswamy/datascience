@@ -1,0 +1,2 @@
+- Completed 1 out of ~1700 problems.
+- Was able to run 5% faster than all python users. That says I'm at 5% which is not good at all.
