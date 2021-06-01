@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
-            "mode": "source"
+            "file": "GitHub.md",
+            "mode": "preview"
           }
         }
       },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "GitHub.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git.md",
+                "file": "GitHub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,8 +209,8 @@
   },
   "active": "6267772f362ace51",
   "lastOpenFiles": [
-    "Git.md",
     "GitHub.md",
+    "Git.md",
     "2021-06-03.md",
     "CS61A.md",
     "CS61B.md",

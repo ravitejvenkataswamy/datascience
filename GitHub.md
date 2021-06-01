@@ -4,3 +4,4 @@
 1. packages vs projects
 1. [[clone]]ing
 1. [[push]]ing
+2. main vs. master
