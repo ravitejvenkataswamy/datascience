@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6bb0fb87a6f372",
+        "id": "e4d672ee177cea89",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Inheritance.md",
-            "mode": "source"
+            "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw"
           }
         }
       }
@@ -39,8 +38,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inher",
-                "matchingCase": false,
+                "query": "class account",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,13 +55,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bd7db6a310ff0876",
@@ -73,35 +70,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4451aa7127bb1495",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "398d9e1d22d23a5b",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
             "id": "013cfc4b6526a1ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inheritance.md",
+                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -111,24 +92,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inheritance.md"
+                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw"
               }
-            }
-          },
-          {
-            "id": "bf22efe9ee956f86",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "4244cef628fd8e53",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           },
           {
@@ -137,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inheritance.md",
+                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,22 +138,33 @@
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9556d8f147c536ba",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c1c80640d3c9ea56",
+            "id": "bbd90010d4a92976",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e8341a22c585c58",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0846101a9ccd15a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "907502972e839e38",
@@ -209,17 +185,17 @@
     "width": 298.5,
     "collapsed": true
   },
-  "active": "6c6bb0fb87a6f372",
+  "active": "e4d672ee177cea89",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
     "Inheritance.md",
+    "Excalidraw/Drawing 2021-06-02 21.04.13.excalidraw",
     "class.md",
-    "Class.md",
-    "attribute assignment.md",
-    "class attribute.md",
-    "method.md",
-    "instance attribute.md",
-    "Attribute assignment.md",
-    "2021-05-31.md",
-    "attribute.md"
+    "How to create class.md",
+    "class A.md",
+    "class B(A).md",
+    "class C(B).md",
+    "Inheritance and Attribute Lookup.md",
+    "A.md"
   ]
 }

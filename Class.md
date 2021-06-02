@@ -1,23 +1,24 @@
 - A class combines (and abstracts) data and functions
 - An object is an instantiation of a class
 - What class does is putting all these pieces together, meaning storing of information, data and [[functionality]] on that data
-- 
-
 - A class combines (and abstracts) data and functions
 - Is something that combines and abstracts out [[data]] and [[functionality]]
 
 - A class serves as a template for its instances. 
-- Idea
-	-  All bank accounts have a balance and an account holder; the Account class should add those arrtibutes to each newly created instances.
-	-  ```
+- Idea 
+	- All bank accounts have a balance and an account holder; the Account class should add those arrtibutes to each newly created instances.
+
+```
     >>> a = Account('Jim')
     >>> a.holder
     Jim
     >>> a.balance
     0
+```
 
 	- All bank accounts should have "withdraw" and "deposit" behaviours that all work in the same way.
-	  ```
+
+```
 	  >>> a.deposit(15)
 	  15
 	  >>> a.withdraw(10)
@@ -26,6 +27,7 @@
 	  0
 	  >>> a.withdraw(10)
 	  'Insufficient fund'
+```
 
 
 - Some `a.deposit(15)` of them look like a call expression and some `a.balance` act like they access a value.
@@ -68,9 +70,9 @@ Class Clown
 ```python
 
 class Account:
-def __init__(self, account_holder): #the self will fill the blank instance that is created, while creating the class
-self.balance = 0
-self.holder = account_holder
+		def __init__(self, account_holder): #the self will fill the blank instance that is created, while creating the class
+				self.balance = 0
+				self.holder = account_holder
 ```
 
 a= Account('Jim') Jim will take place of account_holder, even though it's not the first place
@@ -78,7 +80,7 @@ a= Account('Jim') Jim will take place of account_holder, even though it's not th
 - `   balance: 0 holder: 'Jim'        `
   - This blank instance is filled with this^
 
-```
+```shell
 >>> a = Account('Jim')
 >>>a.holder
 'Jim'
@@ -95,11 +97,12 @@ a= Account('Jim') Jim will take place of account_holder, even though it's not th
 ```
 
 Every call to Account creates a new Account instance. There is only one Account class.
-
-    >>> a.balance
-    0
-    >>> b.holder
-    'Jack'
+``` shell
+ >>> a.balance
+ 0
+   >>> b.holder
+   'Jack'
+```
 
  Identity operators `is` and `is not` test if two expressions evaluate to the same object:
   ```
@@ -116,5 +119,5 @@ Every call to Account creates a new Account instance. There is only one Account 
 True
 ```
 
-[[How to create class]]
+![[How to create class]]
   

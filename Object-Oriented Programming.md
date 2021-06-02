@@ -1,4 +1,3 @@
-- Complete [[CS61A]]
 - All values are objects in python
 - A method for organising [[modular programs]]
     - [[Data abstraction]] barriers
@@ -11,3 +10,5 @@
     - Several objects may all be instance of a common type
     - __Specialized syntax & vocabulary to support this metaphor__
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsuperbeliever%2F-RWwFuMiLU.png?alt=media&token=34f4f132-1967-43a0-9522-892b8eafb217)
+
+![[Inheritance#^da1658]]
