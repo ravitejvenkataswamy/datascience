@@ -53,5 +53,5 @@ False
 
 form [[Inheritance#^d70870]] lecture
 
-##### [[Attribute assignment]] statements
+##### [[attribute assignment]] statements
 - Attribute assignment statements change the values that are bound to attribute name with an object or a class.

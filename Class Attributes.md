@@ -2,10 +2,10 @@ Class Attributes
 - Class attributes are 'shared' across all instances of a class because they are attributes of the class, not the instance.
  ```python
 class Account:
-interest = 0.2 #A class attribute
-def **init**(self, account_holder):
-self.balance = 0
-self.holder = account_holder
+	interest = 0.2 #A class attribute
+	def __init__(self, account_holder):
+		self.balance = 0
+		self.holder = account_holder
 
 #Additional methods would be defined here.
 ```

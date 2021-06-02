@@ -21,8 +21,8 @@ class Account:
 - Therefore the Account class has three attributes
     - `__init__ , deposit, and withdraw`
 ### Invoking methods
-    - All invoked methods have access to the object via the `self` parameter, and so they can all access and manipulate the object's state.
-        - Look up it's balance, whatever.
+- All invoked methods have access to the object via the `self` parameter, and so they can all access and manipulate the object's state.
+	-  Look up it's balance, whatever.
 
 ```python
 class Account:

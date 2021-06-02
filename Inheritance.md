@@ -4,13 +4,13 @@ date updated: '2021-06-02T00:38:52+05:30'
 ---
 
 #inprogress
-lecture 19
+## Introduction in Lecture 19
 
 - When it is applied appropriately, this can be of greater use, not otherwise. Often overused
 - Recall [[attribute]]: Recalled from [[Inheritance]] perspective
 
 ```qrcode
-Inheritance
+Inheritence
 ```
 
 [Lecture playlist](https://www.youtube.com/watch?v=m9wC1N9PtSw&list=PL6BsET-8jgYXpV7vl4Pvo25wh0FKRlecx)
@@ -34,6 +34,8 @@ Inheritance
   - Method is function that's also a class attribure ^2072af
 
 ##### ==Python object system==
+
+^e3ff36
 
 1. Functions are objects
 2. [[bound method]]s are also objects: a function that has its first paremeter [[self]] already bound to an instance.
@@ -59,3 +61,30 @@ A quick review on how [[dot expression]]s work
 
 - That [[attribute]] value is returned unless it is a function, in which case a [[bound method]] is returned instead.
   a slighly different version of function, where you get the function, with it's first parameter bound already to the object of the [[dot expression]]
+
+![[attribute assignment#^f94e9b]]
+		
+## [[Inheritance]]
+
+![[Inheritance#^e3ff36]]
+- a feature that exists almost in every programming language.
+- Inheritance is a method for relating (multiple) [[class]]es together
+		Becuse not every class exits in isolatoin, sometime one is just similar to another we just want express their relations  
+```ad-note
+A common use: Two similar classes differ in their degree of specilaization
+```
+
+The [[specialized class]] may have the same attributes as the general class, along with some special-case behavior.
+```python
+		class <Name>(<base class>):
+			<suite>
+```
+`<base class>` is where the `<class Name>` inherits from
+
+- Conceputally, the new subclass (`<class Name>`) "shares" attributes with its base class.
+- The subclass (`<class Name>`)  may *override* certain inherited attributes.
+				in order to change the behaviour slighly, but anything that not changes stays the same.
+- Using inheritance, we implement a subclass by specifying its *differences* form the base class.
+
+### Inheritance Example
+				

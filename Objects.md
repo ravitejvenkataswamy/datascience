@@ -9,7 +9,7 @@ date updated: '2021-05-29T15:30:41+05:30'
     - [[Inheritance]]
   - ==hard==
   - [[Homework 5]]: [[Object-Oriented Programming]]
-  - [[Class]]es & [[Object]]s
+  - [[class]]es & [[Object]]s
 		- Where An object is an instantiation of a class
 		- Classes vs. objects
 		- Class is like a blueprint, it only tell you how to build a house but you  cannot like in it.
@@ -26,7 +26,7 @@ date updated: '2021-05-29T15:30:41+05:30'
 
 - [[John DeNero]]'s [[Objects]] classes
        - [[Object-Oriented Programming]]
-       - [[Class]]
+       - [[class]]
        - [[method]]
        - [[attribute]]
        -  [[Methods and Functions]]

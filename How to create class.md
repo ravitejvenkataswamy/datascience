@@ -2,7 +2,7 @@ How to create class, a ball class here.
     -  Class allows us to store some data which is `position`, `speed` and [[functionality]] is you can move the ball, render the ball etc
     - `myball = Ball(10.0, 15.0, 0.0, -5.0)`
     - `myball` is An object is an instantiation of a class `Ball`  ; `Class` of type `Ball`
-    - the [[constructor]] is just the name of the [[Class]] and some information of what I want my object to be
+    - the [[constructor]] is just the name of the [[class]] and some information of what I want my object to be
     - See what [[constructor]] does.
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsuperbeliever%2FUS0ebb3mHR.png?alt=media&token=a7391fb4-8ee9-4702-827d-d35ac60ba43a)
     - here the number `3000` is an address, it just a [[pointer]] to where it is.
