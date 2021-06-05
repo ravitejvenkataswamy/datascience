@@ -35,7 +35,7 @@ git reset --soft HEAD ~1' and commit and the file again.
 
 2. In Terminal, add the URL for the remote repository where your local repository will be pushed.
 ```shell
-git remote and origin <REMOTE_URL>
+git remote add origin <REMOTE_URL>
 ```
 - Sets the new remote
 ```shell
@@ -61,3 +61,11 @@ echo ".obsidian/cache
 dquote> .trash/
 
 dquote> .DS\_Store" > .gitignore
+
+- Getting error while pushing the code
+
+1.  Try `git show-ref` to see what refs you have. Is there a `refs/heads/master`?
+
+> Due to the recent "Replacing master with main in GitHub" action, you may notice that there is a `refs/heads/main`. As a result, the following command may change from `git push origin HEAD:master` to `git push origin HEAD:main`
+
+2.  You can try `git push origin HEAD:master` as a more local-reference-independent solution. This explicitly states that you want to push the local ref `HEAD` to the remote ref `master` (see the [git-push refspec](https://git-scm.com/docs/git-push#git-push-ltrefspecgt82308203) documentation).

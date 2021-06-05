@@ -1,9 +1,4 @@
----
-date updated: '2021-06-02T00:38:52+05:30'
-
----
-
-#inprogress
+#done 
 
 ## Introduction in Lecture 19
 - When it is applied appropriately, this can be of greater use, not otherwise. Often overused
@@ -65,7 +60,9 @@ A quick review on how [[dot expression]]s work
   Becuse not every class exits in isolatoin, sometime one is just similar to another we just want express their relations
 
 ```ad-note
+collapse: open
 A common use: Two similar classes differ in their degree of specilaization
+
 ```
 
 The [[specialized class]] may have the same attributes as the general class, along with some special-case behavior.
@@ -268,7 +265,7 @@ True
 ```
 Bank is constructed with no arguments
 
-```
+```python
 def __init__(self):
 	self.accounts = [] We are gonna have to remember what accounts are being held by that bank
 def open_account(self, holder, amount, kind = Account): #method
@@ -291,28 +288,29 @@ def too_big_to_fail(self):
 ### Attributes Lookup Practice
 
 #### Inheritance and Attribute Lookup
-
-class [[A]]:
+``` python
+class A:
 	z = -1
 	def f(self, x):
-		return [[B]](x - 1)
+		return B(x - 1)
 
-class [[B]]([[A]]):
+class B(A):
 	n = 4
 	def __init__(self, y):
 		if y:
 			self.z = self.f(y)
 		else:
-			self.z = [[C]](y + 1)
+			self.z = C(y + 1)
 			
-class [[C]]([[B]]):
+class C(B):
 	def f(self, x):
 		return x
 
 
-a = [[A]]() `#composition`
+a = A() `#composition`
 b = B(1) `#passed 1 to B's attribute y` b is an object, a class instantiation
 b.n = 5
+```
 
 
 
@@ -338,3 +336,54 @@ Which evaluates to an integer?
 After watching video.
 
 ![[Drawing 2021-06-03 00.07.03.excalidraw]]
+	
+
+	
+### Multiple Inheritance
+	
+```python
+class SavingsAccount(Account):
+	deposit_fee = 2
+	def deposit(self, amount):
+			return Account.deposit(self. amount - self.deposit_fee) 
+```
+- A class may inherit from multiple base classes in Python.
+- CleverBank marketing executive wants:
+	- Low interest rate of 1%e
+	- A $1 fee for withdrawals
+	- A $2 fee for deposits
+	- A free dollar when you open your account
+	
+	
+``` python
+class AsSeenOnTVAccount(CheckingAccount, SavingsAccount):
+		def __init__(self, account_holer):
+				self.holder = account_holder
+				self.balance = 1 # A free dollar!
+```
+	
+	![[Drawing 2021-06-03 22.47.56.excalidraw]]
+	
+### Resolving Ambiguous Class Attribute Names
+	
+![[Drawing 2021-06-03 22.55.13.excalidraw]]
+	
+### Complicated Inheritance.
+- the multiple inhertiance tends to make programs complicated.
+- it should be used very rarely indeed.
+- if you wanna design clear programs
+
+
+#### Biological Inheritance.
+![[Screenshot 2021-06-03 at 11.15.13 PM.png]]
+	
+This tree is growing at exponential rate, which implies there are many many more people in previous generation than there are now. ~~Not True~~
+		- Which says we had more population in previous generations, which obviously is not the case.
+		- **there must be some over lap**
+![[Screenshot 2021-06-03 at 11.20.57 PM.png]]
+	
+```ad-warning
+collapse: open
+be very careful with multiple inheritance
+
+```

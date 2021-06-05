@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d672ee177cea89",
+        "id": "63a0fa6f24592439",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -38,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class account",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -59,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd7db6a310ff0876",
@@ -75,14 +74,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw"
-              }
+              "state": {}
             }
           },
           {
@@ -102,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +128,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9442282093328738,
+                  "scale": 0.43407894865347074,
                   "close": true
                 }
               }
@@ -165,37 +160,23 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "907502972e839e38",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8447cdd3c0b76453",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 298.5,
     "collapsed": true
   },
-  "active": "e4d672ee177cea89",
+  "active": "63a0fa6f24592439",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-06-03 00.07.03.excalidraw",
+    "Representation.md",
+    "Excalidraw/Drawing 2021-06-04 20.55.56.excalidraw",
+    "str.md",
+    "repr.md",
+    "CS61A.md",
     "Inheritance.md",
-    "Excalidraw/Drawing 2021-06-02 21.04.13.excalidraw",
-    "class.md",
-    "How to create class.md",
-    "class A.md",
-    "class B(A).md",
-    "class C(B).md",
-    "Inheritance and Attribute Lookup.md",
-    "A.md"
+    "Excalidraw/Drawing 2021-06-03 22.55.13.excalidraw",
+    "Excalidraw/Drawing 2021-06-03 23.14.31.excalidraw",
+    "Excalidraw/Drawing 2021-06-03 22.47.56.excalidraw",
+    "Excalidraw/Drawing 2021-06-03 22.54.26.excalidraw"
   ]
 }

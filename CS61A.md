@@ -1,5 +1,11 @@
 - ## [Timeline](https://airtable.com/shrvmqSzsRvaNr160)
 - #inprogress 
+
+```query 
+tag: #youtube
+
+```
+
 - [x] Lecture 1: Introdunction
 - [x] Lecture 2: [[function]]s
 - [x] Lecture 3: [[Control]]
@@ -18,8 +24,8 @@
 - [x] Lecture 17: [[Iterators]]
 - [x] Lecture 18: [[Objects]]	
 - [ ] [[Homework 4]]  
-- [x] Lecture 19: [[Inheritance]]		
-- [ ] Lecture 20: [[Representation]]
+- [x] Lecture 19: [[Inheritance]]
+- [ ] Lecture 20: [[Representation]] #inprogress
 - [ ] [[Homework 5]]
 - [ ] Lecture 21: [[Composition]]		
 - [ ] Lecture 23: [[Decomposition]]		
@@ -43,3 +49,4 @@
 ```
 
 ![[Screenshot 2021-05-30 at 12.56.52 AM.png]]
+

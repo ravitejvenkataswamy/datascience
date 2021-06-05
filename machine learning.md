@@ -1,2 +1,3 @@
 - May 23rd, 2021
 - [[TensorFlow]]
+- [ ] [[Compute clusters]] and [[distributed computing]] is critical.
