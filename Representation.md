@@ -222,9 +222,11 @@ Likewise, the `str`  **#2** string skips the instance attribute and goes striagh
 print(oski.__str__())
 ```
 However,  
+```python
 print(oski.__repr__())
 
 ```
+
 
 ```shell
 a bear

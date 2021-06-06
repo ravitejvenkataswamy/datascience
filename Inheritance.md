@@ -277,10 +277,6 @@ def pay_interest(self):
 	for a in self.accounts:
 		a.deposit(a.balance * a.interest)
 		
-def pay_interest(self):
-	for a in self.accounts:
-		a.deposit(a.balance * a.interest)
-		
 def too_big_to_fail(self):
 	return len(self.accounts) > 1
 ``` 

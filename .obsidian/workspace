@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "63a0fa6f24592439",
+        "id": "484e61806bd0a4ed",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "YouTube.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -57,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bd7db6a310ff0876",
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YouTube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YouTube.md"
+              }
             }
           },
           {
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "YouTube.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,25 +164,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 298.5,
     "collapsed": true
   },
-  "active": "63a0fa6f24592439",
+  "active": "484e61806bd0a4ed",
   "lastOpenFiles": [
-    "Representation.md",
-    "Excalidraw/Drawing 2021-06-04 20.55.56.excalidraw",
-    "str.md",
-    "repr.md",
-    "CS61A.md",
-    "Inheritance.md",
-    "Excalidraw/Drawing 2021-06-03 22.55.13.excalidraw",
-    "Excalidraw/Drawing 2021-06-03 23.14.31.excalidraw",
-    "Excalidraw/Drawing 2021-06-03 22.47.56.excalidraw",
-    "Excalidraw/Drawing 2021-06-03 22.54.26.excalidraw"
+    "YouTube.md",
+    "2021-W22.md",
+    "2021-06-08.md",
+    "2021-06-03.md",
+    "2021-06-01.md",
+    "2021-05-31.md",
+    "2021-05-29.md",
+    "2021-05-01.md",
+    "Excalidraw/Drawing 2021-05-31 00.48.42.excalidraw",
+    "Excalidraw/Drawing 2021-06-01 23.56.20.excalidraw"
   ]
 }
