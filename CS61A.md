@@ -2,7 +2,7 @@
 - #inprogress 
 
 ```query 
-tag: #youtube
+tag: #inprogress 
 
 ```
 
@@ -25,11 +25,12 @@ tag: #youtube
 - [x] Lecture 18: [[Objects]]	
 - [ ] [[Homework 4]]  
 - [x] Lecture 19: [[Inheritance]]
-- [ ] Lecture 20: [[Representation]] #inprogress
+- [x] Lecture 20: [[Representation]] 
 - [ ] [[Homework 5]]
 - [ ] Lecture 21: [[Composition]]		
 - [ ] Lecture 23: [[Decomposition]]		
 - [ ] Lecture 24: [[Data Examples]]		
+#### Scheme starts here.
 - [ ] Lecture 27: [[Scheme]]		
 - [ ] Lecture 28: [[Exceptions]]	
 - [ ] Lecture 29: [[Calculator]]		

@@ -29,7 +29,7 @@ Inheritence
 ^e3ff36
 
 1. Functions are objects
-2. [[bound method]]s are also objects: a function that has its first paremeter [[self]] already bound to an instance.
+2. [[bound method]]s are also objects: a function that has its first paremeter [[self]] already bound to an instance. ^2d1b2b
 3. [[dot expression]]s evalute to bound methods for class attributes that are functions
 
 `<instance>.<method_name>` is a very common pattren
@@ -51,7 +51,7 @@ A quick review on how [[dot expression]]s work
 
 ![[attribute assignment#^f94e9b]]
 
-## [[Inheritance]]
+## Inheritance
 
 ![[Inheritance#^e3ff36]]
 

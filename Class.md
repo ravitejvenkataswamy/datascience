@@ -42,7 +42,7 @@
 
 It's a convention to use Capital letter
 the beginning letter of the name of the class
-``` 
+``` shell
 Class Clown
 ... 	nose = 'big and red'
 ...		def dance():
@@ -82,7 +82,7 @@ a= Account('Jim') Jim will take place of account_holder, even though it's not th
 
 ```shell
 >>> a = Account('Jim')
->>>a.holder
+>>> a.holder
 'Jim'
 >>> a.balance
 0
@@ -98,10 +98,10 @@ a= Account('Jim') Jim will take place of account_holder, even though it's not th
 
 Every call to Account creates a new Account instance. There is only one Account class.
 ``` shell
- >>> a.balance
- 0
-   >>> b.holder
-   'Jack'
+>>> a.balance
+0
+>>> b.holder
+'Jack'
 ```
 
  Identity operators `is` and `is not` test if two expressions evaluate to the same object:

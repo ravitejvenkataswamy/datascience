@@ -1,0 +1,1 @@
+![[Inheritance#^2d1b2b]]

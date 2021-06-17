@@ -1,7 +1,3 @@
----
-date updated: '2021-06-02T01:56:57+05:30'
-
----
 
 - Attribute assignment statements; change the values that are
 
