@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "de785a4c847ff352",
+        "id": "b8ebb581c18c5615",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linked List Mutation.md",
+            "file": "Tree Mutation.md",
             "mode": "preview"
           }
         }
@@ -56,12 +56,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd7db6a310ff0876",
@@ -77,71 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked List Mutation.md",
+                "file": "Tree Mutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "74ed26a6f48412b3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Linked List Mutation.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#tbd",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#inprogress",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "tag:#done",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 2.01148174157303,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.1005922189365967,
-                  "close": true
-                }
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -154,20 +97,12 @@
             }
           },
           {
-            "id": "c0846101a9ccd15a",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
             "id": "944e17ab90f59a34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked List Mutation.md",
+                "file": "Tree Mutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,15 +114,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked List Mutation.md"
+                "file": "Tree Mutation.md"
               }
             }
           },
           {
-            "id": "477ef7d3a06ea7b0",
+            "id": "c8bebb51ed790ddb",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe7fd670d25036d2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -212,17 +155,17 @@
     "width": 343,
     "collapsed": true
   },
-  "active": "de785a4c847ff352",
+  "active": "b8ebb581c18c5615",
   "lastOpenFiles": [
-    "Linked List Mutation.md",
+    "Tree Mutation.md",
+    "Pruning.md",
     "Composition.md",
+    "Tree Class.md",
+    "Excalidraw/Tree Abs (reviw).excalidraw",
+    "Tree.md",
+    "Relative description.md",
     "CS61A.md",
-    "Excalidraw/Drawing 2021-06-24 17.41.08.excalidraw",
-    "Excalidraw/Linked List example.excalidraw",
-    "Excalidraw/Drawing 2021-06-24 17.40.43.excalidraw",
-    "Excalidraw/Drawing 2021-06-24 17.04.26.excalidraw",
-    "Excalidraw/Linked Lists can change.excalidraw",
-    "Excalidraw/Linked List Envir Diagram.excalidraw",
-    "Excalidraw/Drawing 2021-06-24 16.34.34.excalidraw"
+    "data structures.md",
+    "Recursive description.md"
   ]
 }
