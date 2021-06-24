@@ -1,3 +1,5 @@
+## Linked Lists
+
 - A linked list is either empty or a first value and the rest of the  value in a linked list.
 ![[Linked List Structure.excalidraw]]
 
@@ -16,7 +18,7 @@ class List:
 	def __init__(self, first, rest = empty):
 		assert rest is Link.empty or isinstance(rest, Link)
 		self.first = first
-		self.last = last
+		self.rest = rest
 ```
 
 - here [[isinstance]] is used to check if rest is an instance of the `Link` class meaning it itslef is a linked list

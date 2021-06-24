@@ -1,11 +1,8 @@
-
-- Attribute assignment statements; change the values that are
-
-bound to attribute name with an [[object]] or a [[class]].
+- Attribute assignment statements; change the values that are bound to attribute name with an [[object]] or a [[class]].
 
 - So, you can assign to attributes, [[assignments statements]] with a [[dot expression]] on their ==left-hand side== are _attribute assignment statements_, so affect attributes for the object of that dot expression.
 
-1. - If the object is an instance, then assignment sets an [[instance attribute]] ^426e81
+1.  If the object is an instance, then assignment sets an [[instance attribute]] ^426e81
 2. If the object is a [[class]], then assignment sets a [[class attribute]]
 
 ```python
